@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'com.github.ArturekYT:SilentAC-API:1.0.0'
+    compileOnly 'com.github.ArturekYT:SilentAC-API:main-SNAPSHOT'
 }
 ```
 
@@ -44,7 +44,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("com.github.ArturekYT:SilentAC-API:1.0.0")
+    compileOnly("com.github.ArturekYT:SilentAC-API:main-SNAPSHOT")
 }
 ```
 
@@ -62,7 +62,7 @@ dependencies {
     <dependency>
         <groupId>com.github.ArturekYT</groupId>
         <artifactId>SilentAC-API</artifactId>
-        <version>1.0.0</version>
+        <version>main-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>
