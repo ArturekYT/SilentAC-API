@@ -1,0 +1,7 @@
+name: SilentAC-Example
+version: '1.0.0'
+main: pl.niker.silentac.example.SilentACExamplePlugin
+api-version: '1.21.4'
+depend:
+  - SilentAC
+description: Example plugin using SilentAC-API to rotate players 3 times on AimML flag.

@@ -1,0 +1,10 @@
+target/
+build/
+.gradle/
+.idea/
+*.iml
+out/
+.classpath
+.project
+.settings/
+SilentAC Example/
